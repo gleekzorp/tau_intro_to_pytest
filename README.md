@@ -10,6 +10,7 @@ https://testautomationu.applitools.com/pytest-tutorial/
   - Pytest Paramatrize: https://docs.pytest.org/en/stable/parametrize.html#parametrize-basics
   - More pytest parameters:  https://docs.pytest.org/en/stable/example/parametrize.html#paramexamples
   - Good Integration Practices:  https://docs.pytest.org/en/stable/goodpractices.html
+  - Pytest Fixtures:  https://docs.pytest.org/en/stable/fixture.html
 - **Python Docs:**  https://docs.python.org/
   - Errors and Exceptions:  https://docs.python.org/3/tutorial/errors.html
   - with statement:  https://docs.python.org/3/reference/compound_stmts.html#the-with-statement
@@ -21,6 +22,8 @@ https://testautomationu.applitools.com/pytest-tutorial/
   - Hypothesis:  https://hypothesis.readthedocs.io/en/latest/
   - Tox:  https://tox.readthedocs.io/en/latest/
   - Arrange Act Assert Pattern:  https://jamescooke.info/arrange-act-assert-pattern-for-python-developers.html
+  - Dependency Injection:  https://en.wikipedia.org/wiki/Dependency_injection
+  - Python Generators:  https://realpython.com/introduction-to-python-generators/
 
 ## Commands
 
