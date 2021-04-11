@@ -15,6 +15,8 @@ https://testautomationu.applitools.com/pytest-tutorial/
   - Usage and Invocations: https://docs.pytest.org/en/stable/usage.html
   - Configuration: https://docs.pytest.org/en/stable/customize.html
   - Configuration Options: https://docs.pytest.org/en/stable/reference.html#ini-options-ref
+  - Working with custom markers:  https://docs.pytest.org/en/stable/example/markers.html
+  - Marking test functions with attributes:  https://docs.pytest.org/en/stable/mark.html
 - **Python Docs:** https://docs.python.org/
   - Errors and Exceptions: https://docs.python.org/3/tutorial/errors.html
   - with statement: https://docs.python.org/3/reference/compound_stmts.html#the-with-statement
@@ -41,6 +43,34 @@ Run all tests
 
 ```
 (venv) $ python -m pytest
+```
+
+Run all tests from a single file
+
+```
+(venv) $ python -m pytest folder/file_name.py
+```
+
+Run a single test from a single file
+
+```
+(venv) $ python -m pytest folder/file_name.py::test_function_name
+```
+
+Run all tests that contain a certain token
+
+```
+(venv) $ python -m pytest -k filter_word
+OR
+(venv) $ python -m pytest -k "one and not accum"
+```
+
+Run all tests that contain a ceratin marker
+
+```
+(venv) $ python -m pytest -m marker_name
+(venv) $ python -m pytest -m math
+(venv) $ python -m pytest -m accumulator
 ```
 
 Run all tests with more details
