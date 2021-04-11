@@ -15,8 +15,8 @@ https://testautomationu.applitools.com/pytest-tutorial/
   - Usage and Invocations: https://docs.pytest.org/en/stable/usage.html
   - Configuration: https://docs.pytest.org/en/stable/customize.html
   - Configuration Options: https://docs.pytest.org/en/stable/reference.html#ini-options-ref
-  - Working with custom markers:  https://docs.pytest.org/en/stable/example/markers.html
-  - Marking test functions with attributes:  https://docs.pytest.org/en/stable/mark.html
+  - Working with custom markers: https://docs.pytest.org/en/stable/example/markers.html
+  - Marking test functions with attributes: https://docs.pytest.org/en/stable/mark.html
 - **Python Docs:** https://docs.python.org/
   - Errors and Exceptions: https://docs.python.org/3/tutorial/errors.html
   - with statement: https://docs.python.org/3/reference/compound_stmts.html#the-with-statement
@@ -30,6 +30,11 @@ https://testautomationu.applitools.com/pytest-tutorial/
   - Arrange Act Assert Pattern: https://jamescooke.info/arrange-act-assert-pattern-for-python-developers.html
   - Dependency Injection: https://en.wikipedia.org/wiki/Dependency_injection
   - Python Generators: https://realpython.com/introduction-to-python-generators/
+- **Feature Tests**
+  - Requests: https://docs.python-requests.org/en/master/
+  - Duckduckgo api: https://duckduckgo.com/api
+  - Tavern api testing: https://tavern.readthedocs.io/en/latest/
+  - Selenium Webdriver With Python Tutorial: https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/
 
 ## Commands
 
